@@ -104,7 +104,7 @@ Interactive filters allow users to analyze data by:
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard image here)
+https://github.com/the-rahul-ambre/Kickstarter-Analysis-Dashboard-Tableau-Project/blob/main/Kickstarter%20Crowdfunding.png
 
 ---
 
