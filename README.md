@@ -120,7 +120,6 @@ https://github.com/the-rahul-ambre/Kickstarter-Analysis-Dashboard-Tableau-Projec
 ## 📁 Files Included
 
 * Tableau Workbook (.twb / .twbx)
-* Dataset
 * Dashboard Screenshot
 
 ---
